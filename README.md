@@ -134,10 +134,6 @@ so i built it. now you can use it too.
 
 ### 📦 tech stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=rust&theme=dark" />
-</div>
-
 - **rust** - because performance matters
 - **ratatui** - for that sick TUI aesthetic
 - **sysinfo** - windows process APIs
