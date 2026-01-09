@@ -1,0 +1,19 @@
+[package]
+name = "procsnipe"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ratatui = "0.28"
+crossterm = "0.28"
+sysinfo = "0.32"
+anyhow = "1.0"
+clap = { version = "4.5", features = ["derive"] }
+
+# Optional dependencies for tray feature
+tray-icon = { version = "0.17", optional = true }
+image = { version = "0.25", optional = true }
+
+[features]
+default = ["tray"]
+tray = ["tray-icon", "image"]

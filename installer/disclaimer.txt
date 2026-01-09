@@ -1,0 +1,47 @@
+╔══════════════════════════════════════════════════════════════════╗
+║              PROCSNIPE - POST-INSTALLATION INFO                  ║
+╚══════════════════════════════════════════════════════════════════╝
+
+Thank you for installing procsnipe! 🎯
+
+═══════════════════════════════════════════════════════════════════
+
+ HOW TO USE:
+
+ 1. NORMAL MODE (TUI):
+    - Launch procsnipe from Start Menu or Desktop
+    - Use vim keybindings (j/k to navigate, d to kill, ? for help)
+
+ 2. SYSTEM TRAY MODE:
+    - If you enabled "Run at startup", it will start in the tray
+    - Right-click the tray icon for options
+    - Opens TUI when you need it
+
+═══════════════════════════════════════════════════════════════════
+
+ ⚠️  REMINDER - IMPORTANT DISCLAIMER:
+
+   • procsnipe can terminate ANY process, including system processes
+   • Killing critical processes (explorer.exe, svchost.exe, etc.)
+     will crash Windows and may require a restart
+   • Some processes require administrator privileges
+   • The background monitor (tray mode) uses minimal resources
+   • USE RESPONSIBLY
+
+═══════════════════════════════════════════════════════════════════
+
+ KEYBINDINGS (TUI MODE):
+
+   j / ↓     - Navigate down
+   k / ↑     - Navigate up
+   /         - Search processes
+   d         - Kill selected process ⚠️
+   g         - Toggle game-only view
+   s         - Cycle sort mode
+   ?         - Help
+   q         - Quit
+
+═══════════════════════════════════════════════════════════════════
+
+Made with 💀 by berochitiri
+https://github.com/berochitiri/procsnipe
