@@ -29,7 +29,6 @@
 
 <sub>\*admin might be needed to kill protected processes, but the app will still work without it</sub>
 <br/>
-
 <div align="center">
   <img src="https://i.pinimg.com/originals/9d/1b/0e/9d1b0e92276C789b.gif" width="100%" height="2px" />
 </div>
@@ -116,7 +115,6 @@ task manager is **bloated**. process hacker is **ugly**. i wanted something that
 
 so i built it. now you can use it too.
 <br/>
-
 <div align="center">
   <img src="https://i.pinimg.com/originals/9d/1b/0e/9d1b0e92276C789b.gif" width="100%" height="2px" />
 </div>
