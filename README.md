@@ -9,6 +9,7 @@
 <br/>
 
 <div align="center">
+    (<b>dogshit</b> work in progress)<br/>
     <b>procsnipe</b> is a TUI process manager that doesn't suck.<br/>
     kill fps-eating processes and flex on task manager.<br/>
     <b>windows only</b> 🪟 | <b>built for gamers who want their PC to stop being a potato</b> 🥔
