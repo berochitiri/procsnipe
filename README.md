@@ -10,16 +10,13 @@
 
 <div align="center">
     <b>procsnipe</b> is a TUI process manager that doesn't suck.<br/>
-    kill fps-eating processes, monitor your system like a hacker, and flex on task manager.<br/>
+    kill fps-eating processes and flex on task manager.<br/>
     <b>windows only</b> 🪟 | <b>built for gamers who want their PC to stop being a potato</b> 🥔
 </div>
-
 <br/>
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=rust,windows&theme=dark" />
 </div>
-
 <br/>
 
 ### 🔥 features that actually matter
@@ -32,7 +29,6 @@
 - **portable .exe** - no installation, no admin\*, just run
 
 <sub>\*admin might be needed to kill protected processes, but the app will still work without it</sub>
-
 <br/>
 
 <div align="center">
@@ -69,12 +65,7 @@ cargo build --release
 # Build installer (requires Inno Setup):
 .\build_installer.bat
 ```
-
 <br/>
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/9d/1b/0e/9d1b0e92276C789b.gif" width="100%" height="2px" />
-</div>
 
 ### 🎯 system tray mode
 
@@ -97,7 +88,6 @@ procsnipe.exe --tray
 - enable during installation
 - runs silently in tray on Windows startup
 - always available when you need it
-
 <br/>
 
 ### ⌨️ keybindings (vim-style because we're not animals)
@@ -127,10 +117,6 @@ task manager is **bloated**. process hacker is **ugly**. i wanted something that
 so i built it. now you can use it too.
 
 <br/>
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/9d/1b/0e/9d1b0e92276C789b.gif" width="100%" height="2px" />
-</div>
 
 ### 📦 tech stack
 
