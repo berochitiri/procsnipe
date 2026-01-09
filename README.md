@@ -18,7 +18,6 @@
   <img src="https://skillicons.dev/icons?i=rust,windows&theme=dark" />
 </div>
 <br/>
-
 ### 🔥 features that actually matter
 
 - **real-time process monitoring** - see what's eating your CPU/RAM instantly
@@ -66,7 +65,6 @@ cargo build --release
 .\build_installer.bat
 ```
 <br/>
-
 <div align="center">
   <img src="https://i.pinimg.com/originals/9d/1b/0e/9d1b0e92276C789b.gif" width="100%" height="2px" />
 </div>
@@ -93,7 +91,6 @@ procsnipe.exe --tray
 - runs silently in tray on Windows startup
 - always available when you need it
 <br/>
-
 ### ⌨️ keybindings (vim-style because we're not animals)
 
 | key       | action                           |
@@ -146,19 +143,16 @@ so i built it. now you can use it too.
 - press `s` to sort by CPU/Memory/Name
 - press `/` to filter by process name
 <br/>
-
 ### ⚠️ disclaimer
 
 killing system processes can brick your session. don't be stupid. i'm not responsible if you kill `explorer.exe` and cry about it.
 
 also, some processes might require **admin privileges** to kill. if it doesn't work, run procsnipe as admin.
 <br/>
-
 ### 🤝 contributing
 
 PRs welcome. keep it clean, keep it fast, keep it edgy.
 <br/>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
